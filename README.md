@@ -8,6 +8,9 @@ This is a simple calculator built using Python.
 - Multiplication
 - Division
 
-## How to run
-Run the file using Python:
-python calculator.py
+## How to Run
+
+1. Install Python
+2. Download the project
+3. Run the file using:
+   python calculator.py
